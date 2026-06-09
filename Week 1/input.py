@@ -3,9 +3,13 @@ def main():
 
     print(name)
 
+    test = 10
+
     age = int(input("Enter your age: "))
 
     print(age)
+
+    print(test)
 
 if __name__ == "__main__":
     main()
