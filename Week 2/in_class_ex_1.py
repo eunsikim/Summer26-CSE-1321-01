@@ -8,7 +8,14 @@
 # One Burgers costs $5.99 and One Soda costs $2.50
 
 def main():
-    # start here
+    burgers = int(input("How many burger(s): "))
+    sodas = int(input("How many soda(s): "))
+
+    total = burgers * 5.99 + sodas * 2.50
+
+    print(f"{burgers} Burgers")
+    print(f"{sodas} Soda")
+    print(f"Total: ${total}")
 
 if __name__ == "__main__":
     main()
