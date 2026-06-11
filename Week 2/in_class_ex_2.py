@@ -24,9 +24,17 @@ def main():
                 print("You are good to register for CSE 1322 and CSE 1322L")
             else:
                 print("You are not good to register for CSE 1322 and CSE 1322L")
+        else:
+            print("You are not good to register for CSE 1322 and CSE 1322L")
 
     elif semester_applying == "summer 2026":
-        pass
+        if grade_1321 == "A" or grade_1321 == "B":
+            if grade_1321Lab == "A" or grade_1321Lab == "B":
+                print("You are good to register for CSE 1322 and CSE 1322L")
+            else:
+                print("You are not good to register for CSE 1322 and CSE 1322L")
+        else:
+            print("You are not good to register for CSE 1322 and CSE 1322L")
 
 if __name__ == "__main__":
     main()
