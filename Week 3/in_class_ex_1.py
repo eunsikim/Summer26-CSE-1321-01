@@ -8,7 +8,7 @@ def main():
             print(" ", end="")
 
         print(character, end="")
-        counter = 1
+        counter += 1
 
 if __name__ == "__main__":
     main()
