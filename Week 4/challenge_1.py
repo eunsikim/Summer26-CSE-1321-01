@@ -4,7 +4,7 @@
 # While moving through the map, the drone should plant Pumpkins, Bushes, and Carrots.
 # The drone should plant these plants to create "columns" of Pumpkins, Bushes, and Carrots.
 # The order of the "column" should be Pumpkin, Bush, Carrot, Pumpkin, Bush, Carrot, Pumpkin...
-# The drone should stop after traversing each simple tile (No infinite loop)
+# The drone should stop after traversing each single tile (No infinite loop)
 
 # The Farmer Was Replaced hints:
 # To move the drone, the game uses the "move()" function. This function takes as argument: North, South, East, or West
