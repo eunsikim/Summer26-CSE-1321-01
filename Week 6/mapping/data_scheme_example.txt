@@ -1,0 +1,6 @@
+{
+    1: {'firstName': 'Alice', 'quizzes': ['95', '54', '60', '97', '94', '60', '93', '74', '93'], 'midterm_exam': '94', 'final_exam': '68'}, 
+    2: {'firstName': 'Bob', 'quizzes': ['71', '97', '80', '88', '100', '91', '87', '59', '63'], 'midterm_exam': '76', 'final_exam': '59'}, 
+    3: {'firstName': 'Charlie', 'quizzes': ['71', '65', '87', '94', '72', '60', '53', '53', '93'], 'midterm_exam': '51', 'final_exam': '90'}, 
+    4: {'firstName': 'Dave', 'quizzes': ['57', '92', '98', '53', '76', '72', '56', '100', '79'], 'midterm_exam': '75', 'final_exam': '82'}
+}
