@@ -1,0 +1,16 @@
+CSE 1321
+{
+    "quizzes": 10,
+    "midterm": 1,
+    "final": 1,
+    "dist": [30, 30, 40] 
+}
+
+CSE 1321L
+{
+    "labs": 13,
+    "assignments": 7,
+    "midterm": 1,
+    "final": 1,
+    "dist": [10, 40, 20, 30]
+}
