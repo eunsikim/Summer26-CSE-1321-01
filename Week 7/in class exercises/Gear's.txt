@@ -1,0 +1,8 @@
+Gear's
+- Gear's sells sporting goods, camping gear, inflatables
+- The system should keep track of stock
+- The system should keep track of stock coming in and items being sold 
+- The user should be able to add things into inventory
+- The user should be able to sell things
+- The user should be able to modify inventory items 
+(for example, the price of an item)
