@@ -1,0 +1,21 @@
+KSU Soccer League
+- 4 Teams
+- Each Team faces the other teams twice (Home and Away)
+- Every week we have two games.
+- In one season, we have 6 weeks with 12 games:
+	W1: 1v2, 3v4
+	W2: 1v3, 2v4
+	W3: 1v4, 2v3
+	W4: 2v1, 4v3
+	W5: 3v1, 4v2
+	W6: 4v1, 3v2
+- A wins gives a team 3 pts, draws gives both teams 1 pts, loses 0 pts.
+
+Requirements:
+Build a system that the user is able to input the outcome of each game.
+
+The system should track a table of each team with their respective points.
+
+At the end of each week, the system should sort and print the table. 
+The sorting should be from the team with the highest point to the lowest point.
+- Do not bother with conflicts such as teams having the same point.
